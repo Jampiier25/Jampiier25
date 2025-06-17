@@ -1,4 +1,5 @@
-## Hi there 👋
+### Hi I'm Jean Pierre P!👋
+Social media :  [linkedin ](https://www.linkedin.com/in/jeanpierrepluas-dev/)
 
 <!--
 **Jampiier25/Jampiier25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
