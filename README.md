@@ -9,6 +9,7 @@ Formé parte del proyecto final Easy Flight, una plataforma que convierte la exp
 - Last project : Easy Flights una plataforma de vuelos y venta de viajes personalizados  [Easy-Flights](https://github.com/Jampiier25/proyectofinal-TEAM-JDRJ-easyflights)
 
 💡 ¿Qué estoy creando ahora?  
+
 Apps de listas de tareas 📝   
 
 Herramientas de productividad para entornos laborales 🚀  
