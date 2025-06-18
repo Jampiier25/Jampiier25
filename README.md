@@ -1,4 +1,4 @@
-### Jean Pierre P!👋
+# Jean Pierre P Full Stack Developer!👋 
 
 ¡Hola! Soy Jean Pierre, un explorador del mundo digital (y del real 🌍). Estudio desarrollo web y me apasiona crear herramientas que no solo funcionen bien, sino que también hagan la vida más fácil.
 
@@ -8,7 +8,7 @@ Actualmente estoy desarrollando aplicaciones enfocadas en la organización de ta
 Formé parte del proyecto final Easy Flight, una plataforma que convierte la experiencia de reservar vuelos en algo mucho más simple, rápido y agradable. Porque sí, volar debería ser tan fácil como hacer clic.  
 - Last project : Easy Flights una plataforma de vuelos y venta de viajes personalizados  [Easy-Flights](https://github.com/Jampiier25/proyectofinal-TEAM-JDRJ-easyflights)
 
-💡 ¿Qué estoy creando ahora?  
+## 💡 ¿Qué estoy creando ahora?  
 
 Apps de listas de tareas 📝   
 
@@ -19,7 +19,7 @@ Proyectos que combinan simplicidad, diseño y funcionalidad
 aqui una muestra : [ToDoList con API](https://github.com/4GeeksAcademy/TODOlistAPI-jampiier25)   
 [ContacList con API]( https://github.com/Jampiier25/ContactLIST-api)
 
-🧠 Mente inquieta, teclado activo
+## 🧠 Mente inquieta, teclado activo
 Cuando no estoy programando, me encontrarás:
 
 Leyendo sobre código limpio, buenas prácticas y nuevas tecnologías
@@ -29,7 +29,7 @@ Soñando con el próximo viaje 🌎
 Mejorando cada día como desarrollador y como persona
 
 
-📫 ¿Conectamos?  
+## 📫 ¿Conectamos?  
 💼 [LinkedIn ](https://www.linkedin.com/in/jeanpierrepluas-dev/)
 
 💻 [GitHub ](https://github.com/Jampiier25)
