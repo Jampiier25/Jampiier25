@@ -68,6 +68,10 @@ Mejorando cada día como desarrollador y como persona
 
 ---
 
+https://github.com/user-attachments/assets/4b00bc95-e946-4693-b84f-8fd8c9c6a175
+
+
+
 
 <!--
 **Jampiier25/Jampiier25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
