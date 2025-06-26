@@ -22,9 +22,6 @@ Actualmente estoy desarrollando aplicaciones enfocadas en la organización de ta
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
----
-
-
 
 ## ✈️ Última misión completada: Easy Flight
 Formé parte del proyecto final Easy Flight, una plataforma que convierte la experiencia de reservar vuelos en algo mucho más simple, rápido y agradable. Porque sí, volar debería ser tan fácil como hacer clic.  
