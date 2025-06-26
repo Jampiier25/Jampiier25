@@ -48,10 +48,13 @@ https://github.com/user-attachments/assets/f98ffe96-6279-4c00-8b61-ca62acbaa8e7
   
 https://github.com/user-attachments/assets/21b109ea-6634-4e5d-8bf2-d47c83860b4a
 
-- [WHOS THE SPY ](https://github.com/4GeeksAcademy/Who-is-the-SPY-)
+
+- [WHOS THE SPY ](https://github.com/4GeeksAcademy/Who-is-the-SPY-) 
 
 
 https://github.com/user-attachments/assets/d4c3e5fd-cad6-4b00-bfe5-04da25ec994c
+> [!IMPORTANT]
+> En desarrollo como proyecto personal
 
 
 ## 🧠 Mente inquieta, teclado activo
