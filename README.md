@@ -20,7 +20,7 @@ Proyectos que combinan simplicidad, diseño y funcionalidad
 aqui una muestra : 
 [ToDoList con API](https://github.com/4GeeksAcademy/TODOlistAPI-jampiier25)   
 
-https://github.com/user-images.githubusercontent.com/assets/4b00bc95-e946-4693-b84f-8fd8c9c6a175
+https://github.com/user-attachments/assets/30405ecb-db79-45ed-bce9-f51b6326db13
 
 
 [ContacList con API]( https://github.com/Jampiier25/ContactLIST-api)
@@ -73,6 +73,10 @@ Mejorando cada día como desarrollador y como persona
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jampiier25&theme=radical)
 
 ---
+
+
+
+
 
 
 
