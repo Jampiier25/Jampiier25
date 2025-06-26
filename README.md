@@ -4,42 +4,6 @@
 
 Actualmente estoy desarrollando aplicaciones enfocadas en la organización de tareas y la productividad, pensadas para equipos, empresas o cualquier persona que quiera dejar el caos atrás y enfocarse en lo importante.
 
-✈️ Última misión completada: Easy Flight
-Formé parte del proyecto final Easy Flight, una plataforma que convierte la experiencia de reservar vuelos en algo mucho más simple, rápido y agradable. Porque sí, volar debería ser tan fácil como hacer clic.  
-- Last project : Easy Flights una plataforma de vuelos y venta de viajes personalizados
-      [Easy-Flights](https://github.com/Jampiier25/proyectofinal-TEAM-JDRJ-easyflights)
-
-https://github.com/user-attachments/assets/8e972140-265c-47ac-9e10-54338202d99c
-
-
-
-## 💡 ¿Qué estoy creando ahora?  
-
-Apps de listas de tareas 📝   
-
-
-Herramientas de productividad para entornos laborales 🚀  
-
-Proyectos que combinan simplicidad, diseño y funcionalidad  
-
-aqui una muestra : 
-[ToDoList con API](https://github.com/4GeeksAcademy/TODOlistAPI-jampiier25)   
-
-https://github.com/user-attachments/assets/30405ecb-db79-45ed-bce9-f51b6326db13
-
-
-[ContacList con API]( https://github.com/Jampiier25/ContactLIST-api)
-
-## 🧠 Mente inquieta, teclado activo
-Cuando no estoy programando, me encontrarás:
-
-Leyendo sobre código limpio, buenas prácticas y nuevas tecnologías
-
-Soñando con el próximo viaje 🌎
-
-Mejorando cada día como desarrollador y como persona
-
-
 ## 🚀 Habilidades Técnicas
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,6 +20,44 @@ Mejorando cada día como desarrollador y como persona
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
+
+## ✈️ Última misión completada: Easy Flight
+Formé parte del proyecto final Easy Flight, una plataforma que convierte la experiencia de reservar vuelos en algo mucho más simple, rápido y agradable. Porque sí, volar debería ser tan fácil como hacer clic.  
+ Last project : Easy Flights una plataforma de vuelos y venta de viajes personalizados
+- [Easy-Flights](https://github.com/Jampiier25/proyectofinal-TEAM-JDRJ-easyflights)
+
+https://github.com/user-attachments/assets/8e972140-265c-47ac-9e10-54338202d99c
+
+
+
+## 💡 ¿Qué estoy creando ahora?  
+
+Apps de listas de tareas 📝   
+
+
+Herramientas de productividad para entornos laborales 🚀  
+
+Proyectos que combinan simplicidad, diseño y funcionalidad  
+
+aqui una muestra : 
+- [ToDoList con API](https://github.com/4GeeksAcademy/TODOlistAPI-jampiier25)   
+
+https://github.com/user-attachments/assets/30405ecb-db79-45ed-bce9-f51b6326db13
+
+
+[ContacList con API]( https://github.com/Jampiier25/ContactLIST-api)
+
+## 🧠 Mente inquieta, teclado activo
+Cuando no estoy programando, me encontrarás:
+
+Leyendo sobre código limpio, buenas prácticas y nuevas tecnologías
+
+Soñando con el próximo viaje 🌎
+
+Mejorando cada día como desarrollador y como persona
+
+
+
 
 
 
