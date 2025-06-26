@@ -29,6 +29,11 @@ Soñando con el próximo viaje 🌎
 Mejorando cada día como desarrollador y como persona
 
 
+## 📋 Top Lenguajes
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jampiier25&layout=compact&theme=radical)
+
+
 ## 📫 ¿Conectamos?  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanpierrepluas-dev/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jampiier@gmail.com) 
