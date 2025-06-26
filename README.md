@@ -67,7 +67,7 @@ Mejorando cada día como desarrollador y como persona
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jampiier25&theme=radical)
 
 ---
-
+![jampiier25's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jampiier25&theme=omni&hide_border=true)
 
 <!--
 **Jampiier25/Jampiier25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
