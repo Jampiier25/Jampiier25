@@ -6,7 +6,12 @@ Actualmente estoy desarrollando aplicaciones enfocadas en la organización de ta
 
 ✈️ Última misión completada: Easy Flight
 Formé parte del proyecto final Easy Flight, una plataforma que convierte la experiencia de reservar vuelos en algo mucho más simple, rápido y agradable. Porque sí, volar debería ser tan fácil como hacer clic.  
-- Last project : Easy Flights una plataforma de vuelos y venta de viajes personalizados  [Easy-Flights](https://github.com/Jampiier25/proyectofinal-TEAM-JDRJ-easyflights)
+- Last project : Easy Flights una plataforma de vuelos y venta de viajes personalizados
+      [Easy-Flights](https://github.com/Jampiier25/proyectofinal-TEAM-JDRJ-easyflights)
+
+https://github.com/user-attachments/assets/8e972140-265c-47ac-9e10-54338202d99c
+
+
 
 ## 💡 ¿Qué estoy creando ahora?  
 
