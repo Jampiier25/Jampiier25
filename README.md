@@ -37,7 +37,7 @@ Mejorando cada día como desarrollador y como persona
 📧 jampiier@gmail.com
 
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/yourusername/github-readme-stats)
+[![Jampiier´s GitHub stats](https://github-readme-stats.vercel.app/api?username=jampiier25)](https://github.com/jampiier25/github-readme-stats)
 
 
 
