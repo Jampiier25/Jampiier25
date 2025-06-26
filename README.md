@@ -12,11 +12,16 @@ Formé parte del proyecto final Easy Flight, una plataforma que convierte la exp
 
 Apps de listas de tareas 📝   
 
+
 Herramientas de productividad para entornos laborales 🚀  
 
 Proyectos que combinan simplicidad, diseño y funcionalidad  
 
-aqui una muestra : [ToDoList con API](https://github.com/4GeeksAcademy/TODOlistAPI-jampiier25)   
+aqui una muestra : 
+[ToDoList con API](https://github.com/4GeeksAcademy/TODOlistAPI-jampiier25)   
+https://github.com/user-attachments/assets/4b00bc95-e946-4693-b84f-8fd8c9c6a175
+
+
 [ContacList con API]( https://github.com/Jampiier25/ContactLIST-api)
 
 ## 🧠 Mente inquieta, teclado activo
@@ -68,7 +73,7 @@ Mejorando cada día como desarrollador y como persona
 
 ---
 
-https://github.com/user-attachments/assets/4b00bc95-e946-4693-b84f-8fd8c9c6a175
+
 
 
 
