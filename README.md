@@ -1,6 +1,6 @@
-# Jean Pierre P.   Full Stack Developer!👋 
+# Jean Pierre P.   Full Stack Developer!
 
-¡Hola! Soy Jean Pierre, un explorador del mundo digital (y del real 🌍). Estudio desarrollo web y me apasiona crear herramientas que no solo funcionen bien, sino que también hagan la vida más fácil.
+¡Hola! Soy Jean Pierre 👋 , un explorador del mundo digital (y del real 🌍). Estudio desarrollo web y me apasiona crear herramientas que no solo funcionen bien, sino que también hagan la vida más fácil.
 
 Actualmente estoy desarrollando aplicaciones enfocadas en la organización de tareas y la productividad, pensadas para equipos, empresas o cualquier persona que quiera dejar el caos atrás y enfocarse en lo importante. 
 
