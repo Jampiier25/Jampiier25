@@ -42,10 +42,17 @@ Proyectos que combinan simplicidad, diseño y funcionalidad
 aqui una muestra : 
 - [ToDoList con API](https://github.com/4GeeksAcademy/TODOlistAPI-jampiier25)   
 
-https://github.com/user-attachments/assets/30405ecb-db79-45ed-bce9-f51b6326db13
+https://github.com/user-attachments/assets/f98ffe96-6279-4c00-8b61-ca62acbaa8e7
+
+- [ContacList con API]( https://github.com/Jampiier25/ContactLIST-api)
+  
+https://github.com/user-attachments/assets/21b109ea-6634-4e5d-8bf2-d47c83860b4a
+
+- [WHOS THE SPY ](https://github.com/4GeeksAcademy/Who-is-the-SPY-)
 
 
-[ContacList con API]( https://github.com/Jampiier25/ContactLIST-api)
+https://github.com/user-attachments/assets/d4c3e5fd-cad6-4b00-bfe5-04da25ec994c
+
 
 ## 🧠 Mente inquieta, teclado activo
 Cuando no estoy programando, me encontrarás:
