@@ -30,14 +30,13 @@ Mejorando cada día como desarrollador y como persona
 
 
 ## 📫 ¿Conectamos?  
-💼 [LinkedIn ](https://www.linkedin.com/in/jeanpierrepluas-dev/)
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanpierrepluas-dev/) 
+📧 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jampiier@gmail.com) 
 
-💻 [GitHub ](https://github.com/Jampiier25)
+ 
+<!--[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sajaking_sw) -->
 
-📧 jampiier@gmail.com
 
-**Redes:**  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sajaking_sw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-nicolas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:empresasarn@gmail.com) 
 ---
 
 
