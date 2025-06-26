@@ -2,7 +2,10 @@
 
 ¡Hola! Soy Jean Pierre, un explorador del mundo digital (y del real 🌍). Estudio desarrollo web y me apasiona crear herramientas que no solo funcionen bien, sino que también hagan la vida más fácil.
 
-Actualmente estoy desarrollando aplicaciones enfocadas en la organización de tareas y la productividad, pensadas para equipos, empresas o cualquier persona que quiera dejar el caos atrás y enfocarse en lo importante.
+Actualmente estoy desarrollando aplicaciones enfocadas en la organización de tareas y la productividad, pensadas para equipos, empresas o cualquier persona que quiera dejar el caos atrás y enfocarse en lo importante. 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanpierrepluas-dev/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jampiier@gmail.com) 
 
 ## 🚀 Habilidades Técnicas
 
@@ -20,6 +23,8 @@ Actualmente estoy desarrollando aplicaciones enfocadas en la organización de ta
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
+
+
 
 ## ✈️ Última misión completada: Easy Flight
 Formé parte del proyecto final Easy Flight, una plataforma que convierte la experiencia de reservar vuelos en algo mucho más simple, rápido y agradable. Porque sí, volar debería ser tan fácil como hacer clic.  
@@ -71,23 +76,25 @@ Mejorando cada día como desarrollador y como persona
 
 
 
+
+
 ## 📋 Top Lenguajes
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jampiier25&layout=compact&theme=radical)
-
-
 ## 📊 Estadísticas de GitHub
 
 [![Jampiier´s GitHub stats](https://github-readme-stats.vercel.app/api?username=jampiier25&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)](https://github.com/jampiier25/github-readme-stats)
 
-
-## 📫 ¿Conectamos?  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanpierrepluas-dev/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jampiier@gmail.com) 
-
 ## 🏆 Trofeos de GitHub
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jampiier25&theme=radical)
+
+
+
+## 📫 ¿Conectamos?  
+No dudes en enviarme un email para poder contactar conmigo , estare gustoso de formar parte de un proyecto en conjunto com ode formar parte de un equipo de trabajo.
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jampiier@gmail.com) 
+
 
 ---
 <!--
